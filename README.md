@@ -19,5 +19,4 @@ This is still a work in progress. GitHub repos will be deleted and created durin
 //*                Larry Williams                                   *   FILE 038
 //*                email:  larryw@ix.netcom.com                     *   FILE 038
 //*                                                                 *   FILE 038
-
 ```
